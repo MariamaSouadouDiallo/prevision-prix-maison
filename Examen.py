@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split 
-
+## phase 2 du programme python
 
 st.write('''
 # Application  pour la prediction de prix des maisons
